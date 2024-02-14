@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Artem.
+## **Python developer**
+### My goal is to improve my coding skills. 
+
+- 📫 How to reach me: altereschenko@ya.ru or [Telegram](http://t.me/alteresc)
+
 
 <!--
 **Artem-Ter/Artem-Ter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

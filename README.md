@@ -4,7 +4,7 @@
 
 - 🔭 I took Python developers course at Yandex.Practicum
 - :rocket: I’m boosting my **django** knowledge
-- 📄 Know about my experiences [CV](www.linkedin.com/in/artem-tereschenko)
+- 📄 Know about my experiences [CV]((https://www.linkedin.com/in/artem-tereschenko))
 - 📫 How to reach me: altereschenko@ya.ru or [Telegram](http://t.me/alteresc)
 - ⚡I am always open to new knowledge, experience and cooperation!
 
